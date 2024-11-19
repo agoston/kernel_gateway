@@ -403,7 +403,7 @@
           "type": "string",
           "description": "Unique name for kernel"
         },
-        "KernelSpecFile": {
+        "spec": {
           "$ref": "#/definitions/KernelSpecFile",
           "description": "Kernel spec json file"
         },
